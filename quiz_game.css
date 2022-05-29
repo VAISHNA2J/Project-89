@@ -1,0 +1,19 @@
+#button1
+{
+border-color: black;
+border-width: 2px;
+border-radius: 10px;
+}
+
+.login_div1 , .login_div2
+{
+    background-color: teal;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+body
+{
+    background-color: palegoldenrod;
+}
